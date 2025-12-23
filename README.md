@@ -19,4 +19,4 @@ Built-in Iris dataset from scikit-learn.
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python iris_classification.py
+python iris_classification.ipynb
